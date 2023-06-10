@@ -1,0 +1,4 @@
+we created a virtual environment
+we set up our project and downloaded some stuff
+
+in django, a view is like a request handler
